@@ -1,2 +1,4 @@
 i think it's a good idea to use github and git to tract what you are doing in your work
-the same think with file2 i will test him here , so thank you for your time 
+the same think with file2 i will test him here , so thank you for your time
+it's another line differenct 
+and have 4 lines not just two
